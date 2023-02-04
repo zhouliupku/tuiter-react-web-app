@@ -1,0 +1,131 @@
+.wd-bg-color-black {
+    background-color: black;
+}
+
+.wd-fg-color-white {
+    color: white;
+}
+
+.wd-fg-color-light-gray {
+    color: lightgrey;
+}
+
+.wd-fg-color-blue {
+    color: rgb(29,161,242);
+}
+
+.wd-fg-color-red {
+    color: red;
+}
+
+.wd-font-size-20 {
+    font-size: 20px;
+}
+
+.wd-font-size-13 {
+    font-size: 13px;
+}
+
+.wd-font-size-15 {
+    font-size: 15px;
+}
+.wd-font-arial {
+    font-family: Arial;
+}
+
+.wd-font-bold {
+    font-weight: bold;
+}
+.wd-border-solid {
+    border: solid;
+}
+
+.wd-border-gray {
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-border-white {
+    border-color: white;
+}
+.wd-border-width-1 {
+    border-width: 1px;
+}
+
+.wd-padded-top-12 {
+    padding-top: 12px;
+}
+
+.wd-padded-bottom-12 {
+    padding-bottom: 12px;
+}
+
+.wd-padded-left-16 {
+    padding-left: 16px;
+}
+
+.wd-padded-left-12 {
+    padding-left: 12px;
+}
+
+.wd-padded-left-80 {
+    padding-left: 80px;
+}
+
+.wd-padded-right-16 {
+    padding-right: 16px;
+}
+
+.wd-padded-right-12 {
+    padding-right: 12px;
+}
+
+.wd-float-right {
+    float: right;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-div-height-80 {
+    height: 80px;
+}
+
+.wd-div-height-800 {
+    height: 640px;
+}
+
+.wd-circle {
+    border-radius: 50%;
+}
+
+.wd-border-radius-20 {
+    border-radius: 20px;
+}
+
+.wd-new-line {
+    clear: both;
+}
+
+.wd-max-width-506 {
+    max-width: 506px;
+}
+
+.wd-max-width-480 {
+    max-width: 480px;
+}
+
+.wd-main-pic-border {
+    border: 1px solid rgb(47, 51, 54);
+    border-bottom-width: 0px;
+    border-radius: 20px 20px 0px 0px;
+    /*border-collapse: ;*/
+
+}
+
+.wd-main-text-border {
+    border: 1px solid rgb(47, 51, 54);
+    border-radius: 0px 0px 20px 20px;
+    margin-top: -4px;
+    /*border-collapse: collapse;*/
+}
