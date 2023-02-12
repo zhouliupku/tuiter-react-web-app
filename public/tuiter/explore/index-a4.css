@@ -1,0 +1,66 @@
+.carousel-content {
+    position: absolute;
+    bottom: 0%;
+    left: 1%;
+    z-index: 20;
+    color: white;
+}
+
+.list-group-item.override-border {
+    border-width: 0px;
+}
+
+.list-group-item.override-active {
+    font-weight: bold;
+}
+
+.search-bar {
+    border: thin lightgray;
+    background-color: lightgray;
+    color: darkgray;
+}
+
+.nav-link.override-active {
+    font-weight: bold;
+    color: black;
+    border-bottom: 4px solid rgb(29,161,242);
+}
+
+.nav-link.override-normal {
+    color: gray;
+
+}
+
+.text-small {
+    font-size: small;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.black-button {
+    background-color: black;
+}
+
+.twitter-blue {
+    color: rgb(29,161,242);
+}
+
+.list-group-item.gray-background {
+    background-color: lightgray;
+}
+
+.text-very-small {
+    font-size: x-small;
+}
+
+.twitter-blue-icon {
+    background-color: lightgray;
+    color: rgb(29,161,242);
+}
+
+.gold-icon {
+    background-color: lightgray;
+    color: goldenrod;
+}
